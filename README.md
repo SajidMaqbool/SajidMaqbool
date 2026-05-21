@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sajid Maqbool Ahmed
+#  Hi, I'm Sajid Maqbool Ahmed
 
 ![Profile Banner](https://img.shields.io/badge/Blockchain_Developer-Passionate-gold?style=for-the-badge&labelColor=0D1117&color=C9A84C)
 ![Solana](https://img.shields.io/badge/Solana-Developer-gold?style=for-the-badge&labelColor=0D1117&color=C9A84C)
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Blockchain Developer** and **Software Engineering student** at the **University of Management & Technology (UMT), Lahore**, specializing in Solana blockchain development. I build decentralized applications and identity systems using Rust and Anchor framework.
 
@@ -15,7 +15,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 👀 I'm interested in ...
+##  I'm interested in ...
 
 - ⛓️ **Blockchain Development** (Solana, Rust, Anchor)
 - 🆔 **Decentralized Identity (DID)** Systems
@@ -25,7 +25,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 🌱 I'm currently learning ...
+## I'm currently learning ...
 
 - 🦀 **Advanced Rust & Anchor Framework**
 - ⛓️ **Solana Program Development**
@@ -34,7 +34,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 💞️ I'm looking to collaborate on ...
+##  I'm looking to collaborate on ...
 
 - 🤝 Solana-based Open Source Projects
 - 🆔 Decentralized Identity Systems
@@ -45,20 +45,20 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 📫 How to reach me ...
+##  How to reach me ...
 
 [![Email](https://img.shields.io/badge/Email-malikhammad@umt.edu.pk-gold?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=C9A84C)](mailto:malikhammad@umt.edu.pk)
 [![Phone](https://img.shields.io/badge/Phone-+92_308_5315318-gold?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117&color=C9A84C)](tel:+923085315318)
 
 ---
 
-## 😄 Pronouns
+##  Pronouns
 
-**He / Him**
+**Baghi**
 
 ---
 
-## ⚡ Fun fact
+##  Fun fact
 
 - 🦀 I write Rust code for fun (yes, really!)
 - ☕ Solana transactions are faster than my morning chai ☕
@@ -66,7 +66,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMaqbool&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=E6EDF3&bg_color=0D1117)
 
@@ -74,7 +74,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -86,7 +86,7 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-SajidMaqbool-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=C9A84C)](https://github.com/SajidMaqbool)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajid_Maqbool_Ahmed-gold?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=C9A84C)](https://www.linkedin.com/in/sajid-maqbool-ahmed-91108634a/)
