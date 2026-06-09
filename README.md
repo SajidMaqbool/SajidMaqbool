@@ -47,8 +47,8 @@ I'm a **Blockchain Developer** and **Software Engineering student** at the **Uni
 
 ##  How to reach me ...
 
-[![Email](https://img.shields.io/badge/Email-malikhammad@umt.edu.pk-gold?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=C9A84C)](mailto:malikhammad@umt.edu.pk)
-[![Phone](https://img.shields.io/badge/Phone-+92_308_5315318-gold?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117&color=C9A84C)](tel:+923085315318)
+[![Email](https://img.shields.io/badge/Email-F2023065305@umt.edu.pk-gold?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117&color=C9A84C)](mailto:malikhammad@umt.edu.pk)
+[![Phone](https://img.shields.io/badge/Phone-+92_310_4624538-gold?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117&color=C9A84C)](tel:+923085315318)
 
 ---
 
