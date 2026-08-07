@@ -68,9 +68,17 @@ I'm a **Full-Stack Developer** and **Software Engineering student** at the **Uni
 
 ## GitHub Stats
 
-![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajidMaqbool&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=E6EDF3&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidMaqbool&theme=dark&background=0D1117&border=C9A84C&stroke=C9A84C&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" alt="Sajid's GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidMaqbool&layout=compact&theme=dark&title_color=C9A84C&text_color=E6EDF3&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajidMaqbool&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=E6EDF3&bg_color=0D1117&border_color=C9A84C" alt="Sajid's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SajidMaqbool&layout=compact&theme=dark&title_color=C9A84C&text_color=E6EDF3&bg_color=0D1117&border_color=C9A84C" alt="Top Languages" />
+</p>
 
 ---
 
