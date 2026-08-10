@@ -69,7 +69,7 @@ I'm a **Full-Stack Developer** and **Software Engineering student** at the **Uni
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SajidMaqbool&theme=dark" alt="Sajid's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=SajidMaqbool&theme=dark" alt="Sajid's GitHub Streak" />
 </p>
 
 <p align="center">
